@@ -1,11 +1,9 @@
 # bilateral-filter_Java
 
-a Java reimplement of bilateral filter
-
 I did a bilateral filter algorithm migration work during the first year of graduate student. I hope it can be helpful to your work.
 
-### code：
-
+## code：
+### a Java reimplement of bilateral filter
 ```java
 public class BilateralFilter {
     public static double[][]
