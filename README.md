@@ -1,6 +1,6 @@
 # Image filter_Java
 
-I did a bilateral filter algorithm migration work during the first year of graduate student. I hope it can be helpful to your work.
+I did some image filter algorithm migration works during the first year of graduate student. I hope it can be helpful to your work.
 
 ## code：
 ### a Java reimplement of bilateral filter
